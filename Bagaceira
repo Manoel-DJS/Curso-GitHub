@@ -39,3 +39,21 @@
             (__(__)___(__)__)
 
 Assinatura: Fera Ronaldo
+
+Para fazer o pull Request é necessário:
+
+Aqui está o passo a passo resumido em tópicos (ponteiros), pronto para você copiar e colar no seu bloco de notas:
+
+* **1. Fork (Cópia):** Você cria uma cópia exata do repositório original (*Upstream*) para a sua própria conta do GitHub (*Origin*).
+
+* **2. Clone (Baixar):** Você baixa essa sua cópia localmente para o seu computador (`git clone <url>`).
+
+* **3. Branch (Isolar):** Você cria uma ramificação nova para trabalhar sem mexer na linha principal (`git checkout -b nome-da-branch`).
+
+* **4. Código e Commit (Salvar):** Você faz as alterações necessárias, adiciona os arquivos (`git add .`) e salva o histórico localmente (`git commit -m "mensagem"`).
+
+* **5. Push (Enviar):** Você envia a sua branch com as alterações de volta para o **seu** repositório no GitHub (`git push origin nome-da-branch`).
+
+* **6. Pull Request (Solicitar):** No GitHub, você abre o PR solicitando que o dono do repositório original puxe (*Pull*) e integre as suas alterações.
+
+* **7. Review e Merge (Aprovar):** Os mantenedores revisam o código e, se estiver tudo certo, fazem o *Merge* (fusão) para o projeto principal.
