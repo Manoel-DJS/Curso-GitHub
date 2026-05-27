@@ -42,6 +42,8 @@ Assinatura: Fera Ronaldo
 
 Para fazer o pull Request é necessário:
 
+VERIFICAR PARA ONDE TA APONTANDO O REPO - COMANDO: GIT REMOTT -V
+
 Aqui está o passo a passo resumido em tópicos (ponteiros), pronto para você copiar e colar no seu bloco de notas:
 
 * **1. Fork (Cópia):** Você cria uma cópia exata do repositório original (*Upstream*) para a sua própria conta do GitHub (*Origin*).
